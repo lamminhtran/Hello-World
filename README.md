@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
  </div>
 
 <div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="" target="_blank">
