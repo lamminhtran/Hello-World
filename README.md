@@ -1,12 +1,10 @@
 <!-- 👋 Hi, I’m @lamminhtran -->
-<!-- lamminhtran/lamminhtran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tran+Lam+Minh!;" />
 </h1>
 
-<h3 align="center">Hi there! I'm an AI Engineer who loves building smart thing</h3>
+<h3 align="center">Hi there! I'm an AI Engineer who loves building smart things</h3>
 
 <br/>
 
@@ -15,6 +13,7 @@
 🌍 I'm based in Vietnam  
 🧠 I'm an **AI Developer** passionate about building intelligent applications    
 🚀 Currently working on **AI-powered chatbot and LLM integration**  
+
 </div>
 
 <br/>
@@ -58,7 +57,33 @@
 
 ---
 
-<br/><br/><br/>
+## 🛠️ Tools & Platforms 🛠️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEIGHTS%20%26%20BIASES-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AMAZON%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+<br/>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
