@@ -1,24 +1,20 @@
 <!-- 👋 Hi, I’m @lamminhtran -->
 <!-- lamminhtran/lamminhtran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<div align="center"> 
-  <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png">
-</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tran+Lam+Minh!;" />
 </h1>
 
-<h3 align="center">I'm a Data Analyst and Data Scientist</h3>
+<h3 align="center">Hi there! I'm an AI Engineer who loves building smart thing</h3>
 
 <br/>
 
 <div align="center">
 
 🌍 I'm based in Vietnam  
-🔭 I’m currently working on **a chat app**  
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+🧠 I'm an **AI Developer** passionate about building intelligent applications    
+🚀 Currently working on **AI-powered chatbot and LLM integration**  
 </div>
 
 <br/>
