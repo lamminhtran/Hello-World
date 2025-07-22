@@ -1,5 +1,6 @@
 <!-- 👋 Hi, I’m @lamminhtran -->
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tran+Lam+Minh!;" />
 </h1>
@@ -33,8 +34,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://media.giphy.com/media/cN1ZoWvPmIGW2/giphy.gif" alt="typing cat" />
 </p>
+
 
 ---
 
